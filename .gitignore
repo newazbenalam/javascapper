@@ -10,6 +10,7 @@
 .svn/
 migrate_working_dir/
 build/
+.local-chrome
 
 # IntelliJ related
 *.iml
